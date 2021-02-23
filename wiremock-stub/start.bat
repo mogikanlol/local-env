@@ -1,0 +1,1 @@
+start "wiremock" java -jar wiremock-2.22.0.jar --port 8090

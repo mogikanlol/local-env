@@ -1,0 +1,11 @@
+{
+  "contractId": "253400M5M1222KPNWE8700000000000000000000000020D67954",
+  "signedProduct": {
+    "data": "signed product",
+    "signature": {
+      "value": "c2lnbmF0dXJlVmFsdWU1",
+      "certificate": "c2lnbmF0dXJlQ2VydGlmaWNhdGU1"
+    }
+  },
+  "contractStatus": "ON_AGREEMENT"
+}

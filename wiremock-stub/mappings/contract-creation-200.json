@@ -1,0 +1,12 @@
+{
+  "request": {
+    "method": "POST",
+    "urlPattern": "/api/v.+/contracts"
+  },
+  "response": {
+    "headers": {
+      "Content-Type": "application/json"
+    },
+    "bodyFileName": "contract-creation-response.json"
+  }
+}

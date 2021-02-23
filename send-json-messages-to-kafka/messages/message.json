@@ -1,0 +1,10 @@
+{
+  "contractId": "contractId",
+  "header": {
+    "providerId": "1",
+    "messageId": "2",
+    "originalMessageId": "3",
+    "correlationId": "4",
+    "creationDateTime" : "1234-05-06T07:08:09.123Z"
+  }
+}

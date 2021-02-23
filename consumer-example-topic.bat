@@ -1,0 +1,1 @@
+call docker exec -it kafka /bin/bash -c "kafka-console-consumer.sh --bootstrap-server localhost:9092 --topic example-topic --group console_test --from-beginning --property print.key=true --property key.separator=: --isolation-level=read_committed"
